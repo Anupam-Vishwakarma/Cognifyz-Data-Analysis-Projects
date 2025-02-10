@@ -99,7 +99,7 @@ Each project applies **Python, Power BI, Tableau, and SQL** to extract meaningfu
 
 ---
 
-### **11️⃣ Price Range vs. Online Delivery & Table Booking**  
+### **1️⃣1️⃣ Price Range vs. Online Delivery & Table Booking**  
 - **Objective:** Explore the relationship between price range and service availability.  
 - **Insights:**  
   - Determined whether **high-priced restaurants** are more likely to offer online delivery & table booking.  
